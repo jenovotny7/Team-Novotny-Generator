@@ -10,7 +10,7 @@ Upon launching the app, the user is asked to describe the first member of their 
 
 A link to my video is below: Also see Video.md for downloads of the video.
 
-![Link to my video](https://drive.google.com/file/d/1grLSNuH-63r2UV474qdHWoKwU_CAb5dz/view?usp=sharing)
+Link to my video below
 
 https://drive.google.com/file/d/1grLSNuH-63r2UV474qdHWoKwU_CAb5dz/view?usp=sharing
 
