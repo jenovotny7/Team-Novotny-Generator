@@ -8,9 +8,9 @@ The Team Profile Generator is a command-line-input application run in Node that 
 
 Upon launching the app, the user is asked to describe the first member of their team.  The user enters the team member's name, selects that member's role from a list (options include "Engineer," "Intern," and "Manager), enters the member's ID (any string), enters the member's email address, and then must enter another piece of information that will differ depending on what role was selected.  If "Engineer" was selected, the app asks the user for the team member's GitHub username; if "Intern" was selected, the member's school is requested; and if "Manager" was chosen, the user is prompted for the team member's phone number.
 
-A link to my video is below.
 
-Link to my video below
+
+## Link to my video below
 
 https://drive.google.com/file/d/1grLSNuH-63r2UV474qdHWoKwU_CAb5dz/view?usp=sharing
 
