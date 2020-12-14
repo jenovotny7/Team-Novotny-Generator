@@ -27,7 +27,7 @@ To create new outputs of data via node without having to re-create the same code
 git clone https://github.com/jenovotny7/Team-Novotny-Generator.git into VSCODE
 
 
-##Contributors
+## Contributors
 Jack Novotny
 
 
