@@ -12,6 +12,8 @@ A link to my video is below: Also see Video.md for downloads of the video.
 
 ![Link to my video](https://drive.google.com/file/d/1grLSNuH-63r2UV474qdHWoKwU_CAb5dz/view?usp=sharing)
 
+https://drive.google.com/file/d/1grLSNuH-63r2UV474qdHWoKwU_CAb5dz/view?usp=sharing
+
 When all information on the team member has been entered, the user is asked whether there are any more members they would like to add.  If so, the user is asked the same questions about the new team member.  If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html."
 
 
